@@ -1,0 +1,6 @@
+{
+  "name": "El Big Bang de Nuestro Amor - Universo Interactivo",
+  "description": "Una experiencia cósmica e interactiva para dedicar a tu pareja, con animación del Big Bang, galaxias interactivas y mensajes románticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
